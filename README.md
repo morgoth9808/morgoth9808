@@ -35,10 +35,10 @@ Welcome to my GitHub profile!
 - **Tools:** Git, VS Code, Docker
 - **Cloud:** Azure
 
-  ## 📫 Let's Connect
+## 📫 Let's Connect
 
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through:
+ I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through:
 
 - LinkedIn: [Connect with Me](https://www.linkedin.com/in/rajat-g-41490018b/)
 
-  Looking forward to collaborating and learning together! 😄
+Looking forward to collaborating and learning together! 😄
