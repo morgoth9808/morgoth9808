@@ -28,9 +28,9 @@ Welcome to my GitHub profile!
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript(HTML/CSS), Python
 - **Frontend:** React
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Django
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VS Code, Docker
 - **Cloud:** Azure
